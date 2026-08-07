@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.summary     = "Portable SHACL-constrained JSON-LD export/import for RailsRuntimes (RR Bundle Profile v1)."
   spec.description = spec.summary
   spec.homepage    = "https://github.com/laquereric/DataYoursSoftwareMine"
-  spec.license     = "Apache-2.0"
+  spec.license     = "LicenseRef-DataYoursSoftwareMine-1.0"
   spec.required_ruby_version = ">= 3.1"
   spec.files = Dir["lib/**/*", "README.md", "LICENSE", "NOTICE"].select { |f| File.file?(f) }
   spec.require_paths = ["lib"]
